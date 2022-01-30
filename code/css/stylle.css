@@ -1,0 +1,44 @@
+
+
+/*Amazing Deliceas Section css */
+.ourPakeg .main_pakeg_content .head_title h3{
+	color:#fff;
+	
+}
+.ourPakeg .main_pakeg_content .head_title h4{
+	color:#fff;
+	font-family: 'Pacifico', cursive;
+	font-size:1.875rem;
+}
+
+.ourPakeg{
+	/* background-color: rgb(255, 255, 255); */
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  width: 100%;
+  overflow: hidden;	
+  padding-bottom:120px;
+}
+
+.single_pakeg_one{
+	background:url(../images/newsone.jpg) left center no-repeat;
+	padding:30px;
+	overflow:hidden;
+	margin-top:60px;
+}
+.single_pakeg_two{
+	background:url(../images/newstwo.jpg) right center no-repeat;
+	padding:30px;	
+	overflow:hidden;
+	margin-top:60px;	
+	
+}
+.single_pakeg_three{
+	background:url(../images/newsthree.jpg) left center no-repeat;
+	padding:30px;	
+	overflow:hidden;
+	margin-top:60px;	
+	
+}
